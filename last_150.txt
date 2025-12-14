@@ -1,3 +1,4 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@117.123.72.132:19374?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#[🇰🇷]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.21:443?security=tls&sni=je.ylks01.eu.org&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.12:443?security=tls&sni=ve.ylkszy.eu.org&type=ws&path=%2F%3Fed#[🇺🇸]t.me/ConfigsHub
 vless://38021ff2-6778-4363-92b1-d70ac11acf51@www.speedtest.net:2096?path=%2F&security=tls&encryption=none&host=svsfes.hatlikarious.org&type=ws&sni=svsfes.hatlikarious.org#[🇨🇦]t.me/ConfigsHub
@@ -241,7 +242,6 @@ vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?security=real
 vless://12345678-1234-1234-1234-123456789123@154.211.8.61:2096?security=tls&type=ws&path=%2Fsnippets&host=vless.hubp.de&sni=vless.hubp.de&fp=chrome&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://12345678-1234-1234-1234-123456789123@193.227.99.61:2096?security=tls&type=ws&path=%2Fsnippets&host=vless.hubp.de&sni=vless.hubp.de&fp=chrome&encryption=none#[🇳🇱]t.me/ConfigsHub
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.21.51.145:8443?security=tls&type=ws&path=%2Fassets%3Fed%3D2048&host=index.arcane509.workers.dev&alpn=http%2F1.1&sni=INDEX.Arcane509.Workers.DEV&fp=chrome&encryption=none#[🇨🇦]t.me/ConfigsHub
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.160.139:443?security=tls&type=ws&path=%2Fo9igw94d2qjy&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@armania.vtuix.ir:7033?security=reality&type=grpc&mode=gun&serviceName=7034vless&sni=telewebion.com&fp=firefox&sid=16b6cda7ab793526&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&encryption=none#[🇦🇲]t.me/ConfigsHub
 vless://a114d067-b900-4f60-87a5-50d4d63972b8@104.18.2.150:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&fp=chrome&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://52c20009-37cf-4c1e-a02e-184de67596f7@46.224.13.187:39550?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
