@@ -1,3 +1,4 @@
+vless://9d3e7537-b583-493a-8548-851b2bf1a47e@v7.vipfast1.shop:8080?flow=&type=tcp&headerType=http&host=anten.ir&path=&security=none#[🇮🇷]t.me/ConfigsHub
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.0:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#[🇺🇸]t.me/ConfigsHub
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@24.199.85.207:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.gstatic.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#[🇺🇸]t.me/ConfigsHub
 vless://21c9f749-027f-4b89-bc04-a7640268bb10@delilah.ns.cloudflare.com:443?flow=&type=ws&host=639005752550769673.accord-lmnxa.info&path=/wbzeprws&security=tls&sni=639005752550769673.accord-lmnxa.info&fp=chrome&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
@@ -240,7 +241,6 @@ vless://a114d067-b900-4f60-87a5-50d4d63972b8@104.18.2.150:443?security=tls&type=
 vless://52c20009-37cf-4c1e-a02e-184de67596f7@46.224.13.187:39550?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://1ff4b4b9-af9f-4708-ab43-97dcc832e748@104.17.147.22:443?security=tls&type=ws&path=%2FeyJqdW5rIjoiOG16aDZBdVhsZ1JNQk54IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNS4zNS43MC4xNTUiLCIxNDguMjUxLjE1Ny4xMjciLCIyLjU5LjE4My4xOTgiXX0%3D&host=008.eLECtROCELlco-Cf-008.wOrkerS.dev&sni=008.eLECtROCELlco-Cf-008.wOrkerS.dev&fp=chrome&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://4a0ced83-c4f2-4946-aa90-d9ce633d43a7@152.53.142.189:11487?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=medicalnewstoday.com&pbk=Vjc6Pniq5ueH7Ue6b3V7nf5oWm89rh113zK1wxm5CFA&sid=5d#[🇩🇪]t.me/ConfigsHub
-vless://58b80215-7692-4cca-8da9-16e65fc28151@tunnyl.ru:8443?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=b88841a3&pbk=B7oEk3bsUoMrpkpIcTsCQnZour3qfbgUuhOk9aWWbFk&encryption=none#[🇪🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.181.103.189:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://15f64399-ebb4-4b82-9b9f-33b09638bc7f@65.109.209.95:443?mode=auto&path=%2F%40MaxFree---%40MaxFree---%40MaxFree---%40MaxFree---%40MaxFree&security=none&encryption=none&host=65.109.209.95&type=xhttp#[🇫🇮]t.me/ConfigsHub
 vless://5710817a-3887-48cc-9abb-a6ddeb701b70@65.109.205.214:443?security=none&type=ws&path=%2F#[🇫🇮]t.me/ConfigsHub
