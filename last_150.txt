@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiI1Ny4xMjkuMi4xMjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBlbGFuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6InBlbGFuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://hopev2ray-hopev2ray-hopev2ray@5.75.202.253:47713/?type=tcp&encryption=none&flow=&sni=Zula.ir&fp=chrome&security=reality&pbk=pS2RI8JETm4avuyyZl4qaZO0KrE4YX9xIOmHkqMmJH4&sid=fc#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdHp5R1p1N0dxb2cwWURxYllMTUF1@62.133.63.21:65262#[🇹🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.157.53.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
@@ -228,7 +229,6 @@ vmess://eyJhZGQiOiJhLmNvbmZpZ25vci5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIs
 vless://b338a8f4-9aa3-4e1d-b6b7-5efed8ae038b@85.195.101.122:48129?encryption=none&security=none&type=raw&headertype=none#[🇩🇪]t.me/ConfigsHub
 vless://b5605766-6abe-4f5f-85e1-0f6f447eae66@cosmin.ns.cloudflare.com:443?path=%2Fhdwvmtws&security=tls&encryption=none&host=639013098070588901.macan-amsjd.info&type=ws&sni=639013098070588901.macan-amsjd.info#[🇺🇸]t.me/ConfigsHub
 vless://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetde157.global.ssl.fastly.net&type=xhttp#[🇺🇸]t.me/ConfigsHub
-vless://fdec7980-cae0-41cc-d92b-e3604fef5394@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@108.162.192.75:443?encryption=none&security=tls&sni=vangoghh.info&insecure=1&allowInsecure=1&type=ws&host=vangoghh.info&path=%2Ftixvuws#[🇨🇦]t.me/ConfigsHub
 vless://81fae892-37b3-47d5-d047-b44b3395fa38@s.askkf.com:443?encryption=none&security=tls&sni=s2.askkf.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s2.askkf.com&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://1a053b22-2ca1-4689-b06a-5fa66e6f9975@62.60.231.215:28485?encryption=none&type=grpc&mode=gun&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=tgju.org&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&sid=dc&spx=/#[🇸🇪]t.me/ConfigsHub
