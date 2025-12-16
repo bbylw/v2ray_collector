@@ -1,3 +1,4 @@
+vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:4248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#[🇷🇺]t.me/ConfigsHub
 vless://3121850a-24aa-41f9-936d-dbdf10a3b31f@45.82.246.114:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#[🇰🇷]t.me/ConfigsHub
 trojan://BxceQaOe@58.152.25.20:443/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#[🇭🇰]t.me/ConfigsHub
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=ios&security=reality&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c#[🇷🇺]t.me/ConfigsHub
@@ -244,7 +245,6 @@ vless://c9b1948f-2f1d-48df-e428-b1fe46700869@DEADSEECtelegram.slimshopboyss.ir:8
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?encryption=none&security=tls&sni=hetzner-6.derberg.name.ng&type=ws&host=hetzner-6.derberg.name.ng&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=jnir-cdn.690077.xyz&type=ws&sni=jnir-cdn.690077.xyz#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.36.69.253:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-vless://464c6913-95b5-44e0-9bdb-5ae9b8f82735@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=jnir-cdn.29394900.xyz&type=ws&sni=jnir-cdn.29394900.xyz#[🇨🇦]t.me/ConfigsHub
 vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=jnir-cdn.jnir.my&type=ws&sni=jnir-cdn.jnir.my#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.36.69.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
